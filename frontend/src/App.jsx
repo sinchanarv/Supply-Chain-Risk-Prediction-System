@@ -24,10 +24,9 @@ function App() {
   const[simulationText, setSimulationText] = useState('');
   const [isSimulating, setIsSimulating] = useState(false);
 
-  // MOCK FUNCTION: What happens when they click "Run AI"
+  // MOCK FUNCTION
   const handleSimulate = () => {
     setIsSimulating(true);
-    // Fake a 2-second loading delay to look like the AI is "thinking"
     setTimeout(() => {
       setIsSimulating(false);
       setIsSimulateModalOpen(false);
