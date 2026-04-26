@@ -122,7 +122,7 @@ function App() {
       <div className="w-64 bg-slate-800 border-r border-slate-700 flex flex-col">
         <div className="p-6 flex items-center gap-3 border-b border-slate-700">
           <ShieldAlert className="text-blue-500 w-8 h-8" />
-          <h1 className="text-xl font-bold tracking-wider">SupplySentinel</h1>
+          <h1 className="text-xl font-bold tracking-wider">SupplyGuard</h1>
         </div>
         
         <nav className="flex-1 p-4 space-y-2">
