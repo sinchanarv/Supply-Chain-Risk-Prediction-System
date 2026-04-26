@@ -1,0 +1,26 @@
+[
+{
+    "id": 1,
+    "location": "Mumbai Port",
+    "threat_type": "Labor Strike",
+    "severity": "High",
+    "affected_shipments": 12,
+    "status": "Rerouted"
+  },
+  {
+    "id": 2,
+    "location": "Miami Coast",
+    "threat_type": "Hurricane",
+    "severity": "Critical",
+    "affected_shipments": 34,
+    "status": "At Risk"
+  },
+  {
+    "id": 3,
+    "location": "Suez Canal",
+    "threat_type": "Traffic Blockage",
+    "severity": "Medium",
+    "affected_shipments": 8,
+    "status": "Delayed"
+  }
+]
