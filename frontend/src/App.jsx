@@ -24,7 +24,7 @@ function App() {
   const[simulationText, setSimulationText] = useState('');
   const [isSimulating, setIsSimulating] = useState(false);
 
-  // MOCK FUNCTION
+  // MOCK Function
   const handleSimulate = () => {
     setIsSimulating(true);
     setTimeout(() => {
